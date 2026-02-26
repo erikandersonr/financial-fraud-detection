@@ -1,0 +1,9 @@
+creditcard.csv
+fraud_data_cleaned.csv
+.env
+.venv
+venv
+__pycache__/
+*.pyc
+.DS_Store
+*.pbix
