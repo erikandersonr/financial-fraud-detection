@@ -35,9 +35,6 @@ A beginner-friendly data analytics project: clean credit card transaction data i
    ```
    This creates `fraud_data_cleaned.csv` in the same folder.
 
-5. **Build the dashboard**  
-   Open Power BI Desktop → Get data → Text/CSV → select `fraud_data_cleaned.csv`. See **PROJECT_GUIDE.md** for step-by-step visual instructions.
-
 ## Project structure
 
 ```
