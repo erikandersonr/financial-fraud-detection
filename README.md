@@ -1,11 +1,8 @@
 # Credit Card Fraud Detection Dashboard
 
-A beginner-friendly data analytics project: clean credit card transaction data in Python and build a fraud detection dashboard in Power BI.
-
 ## What this project does
 
-- **Python:** Loads a public fraud dataset, cleans it, builds a simple risk score (0–10) from transaction amount, and exports a CSV ready for visualization.
-- **Power BI:** Dashboard with fraud rate (card), fraud vs legitimate counts (bar), fraud over time (line), amount vs risk score (scatter), and breakdown by amount category (pie).
+- Loads a public fraud dataset, cleans it, builds a simple risk score (0–10) from transaction amount, and exports a CSV ready for visualization.
 
 ## Tech stack
 
@@ -40,7 +37,6 @@ A beginner-friendly data analytics project: clean credit card transaction data i
 ```
 financial-fraud-dash/
 ├── README.md
-├── PROJECT_GUIDE.md      # Detailed setup + Power BI steps + interview notes
 ├── fraud_detection.py    # Data load, clean, risk score, export
 ├── requirements.txt
 └── creditcard.csv        # (you add this after downloading from Kaggle)
